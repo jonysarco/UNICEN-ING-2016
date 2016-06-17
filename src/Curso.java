@@ -1,5 +1,6 @@
 
 
 public class Curso {
-	Donde esta Sofi?
+	public class whereisSofi {
+	}
 }
