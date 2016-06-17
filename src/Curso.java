@@ -2,15 +2,7 @@
 
 public class Curso {
 	Esto no anda nada
-	jejlagjkeajgég
-	ajg
-	agj
-	ajga
-	gja
-	gja
-	gag
-	aa
-	
+213213212
 	LUCHI
 	
 	agljda
